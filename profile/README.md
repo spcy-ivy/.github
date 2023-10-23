@@ -19,8 +19,14 @@ tl;dr We want you to feel heard and play the games purely because you enjoy them
 These are the repositories that affect every other repo/game.
 
 [Our license](https://github.com/spcy-ivy/CPL)
+
 [Our colorscheme](https://github.com/spcy-ivy/velvet-colorscheme)
 
 Feel free to contribute to both of these!
 
 Every other repo should just be our games!
+
+# Why Github?
+Yeah yeah I know this place is proprietary and riddled with ai, but nobody knows what a Gitlab or a Codeberg is.
+
+Also because I can't afford sourcehut hahahahahahahahaahhahahahahahahahha.
