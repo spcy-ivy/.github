@@ -62,3 +62,6 @@ Every other repo should just be our games!
 Yeah yeah I know this place is proprietary and riddled with ai, but nobody knows what a Gitlab or a Codeberg is.
 
 Also because I can't afford sourcehut hahahahahahahahaahhahahahahahahahha.
+
+# Support
+As mentioned before, you can support us with the donation options we put in game, or preferably, our (WIP) [ko-fi!](https://ko-fi.com/spcyivy)
