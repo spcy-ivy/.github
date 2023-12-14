@@ -1,9 +1,5 @@
 # spcy
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/spcy-ivy/.github/main/profile/icon.png"/>
-</div>
-
 A game "studio" ran by one overworked student and her best friends.
 
 # Credits
@@ -24,7 +20,7 @@ A game "studio" ran by one overworked student and her best friends.
         <tr>
             <td>
                 <h3>@syyivi</h3>
-                <p>owner, programmer, the overworked student in question</p>
+                <p>programmer, the overworked student in question</p>
             </td>
             <td>
                 <h3>@pnmpki</h3>
