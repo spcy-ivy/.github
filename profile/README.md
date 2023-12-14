@@ -50,8 +50,6 @@ tl;dr We want you to feel heard and play the games purely because you enjoy them
 # Repos
 These are the repositories that affect every other repo/game.
 
-[Our license](https://github.com/spcy-ivy/CPL)
-
 [Our colorscheme](https://github.com/spcy-ivy/velvet-colorscheme)
 
 Feel free to contribute to both of these!
